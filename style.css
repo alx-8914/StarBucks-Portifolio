@@ -58,6 +58,13 @@ button {
 
 }
 
+
+.link {
+    height: 50px;
+    font-size: x-large;
+    font-size: 35px;
+}
+
 h2 {
     font-size: 60px;
     font-weight: 500;
